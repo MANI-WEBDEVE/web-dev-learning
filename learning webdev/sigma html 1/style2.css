@@ -1,0 +1,23 @@
+
+body{
+    background-image: url(ioi.jpg);
+    background-size: cover;
+     text-align: center;
+    align-items: center;
+    top: 30px;
+    
+}
+
+form{
+    border: 2px brown;
+}
+input{
+    border: 2px sollid black;
+}
+label{
+    color: bisque;
+    font-size: 16px;
+    border: 2px solid white;
+   
+    
+}

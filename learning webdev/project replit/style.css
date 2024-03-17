@@ -1,0 +1,34 @@
+body{
+    /* background-image: url(room.jpg);  */
+    background-size: cover;  
+    background: rgb(11,36,0);
+background: linear-gradient(135deg, rgba(11,36,0,1) 0%, rgba(9,121,105,0.938813025210084) 46%, rgba(0,212,255,1) 100%);
+}
+h1{
+    align-items:center ;
+    margin-top: 160px;
+    margin-left: 276px;
+    color: rgb(68, 7, 126);
+    font-size: 45px;
+    /* display: inline; */
+}
+b{
+    font-size: 30px;
+    color: rgb(68, 7, 126);
+    margin: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+header{
+    display: inline;
+    
+}
+div{
+    display: inline-table;
+    margin: 20px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+ 
+}
